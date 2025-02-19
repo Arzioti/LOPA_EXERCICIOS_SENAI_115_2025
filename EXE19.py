@@ -64,11 +64,3 @@ print(f'Alunos Exame: {qtdExame}.')
 print('\n')
 print(f'Media Classe: {mediaClasse}.')
 print('\n')
-
-
-
-
-
-
-   
-    
